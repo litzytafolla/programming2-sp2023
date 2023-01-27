@@ -26,3 +26,5 @@ else: # must be val. 10
 
 for i in range(6):
 	print(i)
+
+print("This is so cool!!")
