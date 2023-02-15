@@ -1,0 +1,30 @@
+/**{
+
+}
+
+p{
+	color: #d97eaa;
+	background-color: #b6d8de;
+	text-align: center;
+}
+
+body {
+	background-image: url("https://i0.wp.com/heavenlypuppy.com/wp-content/uploads/2022/06/teacup-chihuahua-puppy-for-sale-22160-1.jpg?fit=1200%2C1200&ssl=1");
+	background-repeat: x;
+
+}
+h1 {
+	color: white;
+	text-align: right;
+}*/
+
+.service-change{
+	font-weight: bold;
+	color: blue;
+}
+
+
+.normal-service{
+	color: green;
+
+}
