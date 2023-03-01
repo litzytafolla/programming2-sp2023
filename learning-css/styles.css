@@ -18,13 +18,20 @@ h1 {
 	text-align: right;
 }*/
 
+/*the period defines the service-change as a class (function) */
+/*external styling */
+
 .service-change{
 	font-weight: bold;
-	color: blue;
+	color: red;
 }
 
 
 .normal-service{
-	color: green;
+	color: lightgreen;
 
+}
+
+.all-trains {
+	font-size: 25px;
 }

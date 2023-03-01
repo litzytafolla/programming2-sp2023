@@ -1,0 +1,26 @@
+.odd{
+	background-color: lightpink;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id1{
+	color: blue;
+	font-size: 36px;
+
+}
+
+
+
+#id2{
+	background-color: lightgreen;
+}
+
+h1, h2, h3{
+	color: lightpink;
+	background-color: lightblue;
+}
+
+h2{
+	background-color: honeydew;
+}
+
