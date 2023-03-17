@@ -1,0 +1,70 @@
+
+*{
+/* this is the light blue color for the background */
+	background-color: #e8f4f8;
+	font-family: "Times New Roman";
+	margin: 8px;
+
+}
+
+/*styles for primary index page*/
+
+.heading_style{
+/* this is the heading text color */
+	color:#1e5262;
+	font-size: 60px;
+	text-align: center; 
+	border: 3px dotted #1e5262;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+
+#title{
+	font-size: 60px;
+	text-align: center; 
+	border: 3px dotted #1e5262;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-weight: bold;
+
+}
+
+.linked_recipe_style{
+	font-size:25px;
+	font-weight: bold;
+}
+
+
+#happycooking{
+	font-size: 40px; 
+	color: #2a7389;
+	font-family: fantasy;
+	font-size: Papyrus;
+	text-align: center;
+}
+
+
+/*styles for recipes*/
+
+
+.subheading_style{
+	color:#1e5262;
+
+}
+
+.text_style{
+	color: #2a7389;
+	font-size: 20px;
+	margin-right: 40px; 
+	margin-left: 40px;
+	margin-bottom: 50px;
+}
+
+/*I kept trying to make a class for my images(so that I 
+wouldn't need to copy and paste the style info) but 
+for some reason the images would not center or work
+how I wanted them to. This is to say that I know that
+creating a class for my images would have been better,
+but I did what I could and I'd love to learn why it did
+not work when I tried. :)*/
