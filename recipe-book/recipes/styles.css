@@ -44,6 +44,16 @@
 	text-align: center;
 }
 
+#GFfooddescription{
+	padding-top: 400px; 
+	margin-bottom: 50px;
+}
+
+.imagestyle{
+	height: 300px; 
+	float:left; 
+	margin-left: 150px;
+}
 
 /*styles for recipes*/
 
@@ -59,6 +69,14 @@
 	margin-right: 40px; 
 	margin-left: 40px;
 	margin-bottom: 50px;
+}
+
+#snoopypic{
+	width: 25%; 
+	height: auto; 
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
 }
 
 /*I kept trying to make a class for my images(so that I 
